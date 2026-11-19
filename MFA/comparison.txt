@@ -1,0 +1,30 @@
+--- BASELINE (stock dictionary) ---
+F2BJRLP1 dukakis       15.45- 16.00s  spn(0.55)
+F2BJRLP1 wbur's        20.56- 21.44s  spn(0.77) AH0(0.04) Z(0.07)
+F2BJRLP1 melnicove     21.75- 22.28s  spn(0.53)
+F2BJRLP2 dukakis        2.73-  3.35s  spn(0.62)
+F2BJRLP2 politicize     5.66-  6.53s  spn(0.87)
+F2BJRLP2 maffy         23.93- 24.34s  spn(0.41)
+--- CUSTOM (stock + 5 hand-checked entries) ---
+F2BJRLP1 dukakis       15.44- 16.01s  D(0.06) UW0(0.04) K(0.10) AA1(0.11) K(0.09) IH0(0.05) S(0.12)
+F2BJRLP1 wbur's        20.56- 21.44s  D(0.07) AH1(0.05) B(0.05) AH0(0.01) L(0.03) Y(0.09) UW0(0.04) B(0.06) IY1(0.05) Y(0.09) UW1(0.09) AA1(0.07) R(0.10) Z(0.08)
+F2BJRLP1 melnicove     21.74- 22.30s  M(0.06) EH1(0.05) L(0.05) N(0.07) IH0(0.05) K(0.10) OW2(0.09) V(0.09)
+F2BJRLP2 dukakis        2.72-  3.36s  D(0.07) UW0(0.05) K(0.11) AA1(0.12) K(0.08) IH0(0.08) S(0.13)
+F2BJRLP2 politicize     5.65-  6.51s  P(0.10) AH0(0.04) L(0.09) IH1(0.05) T(0.04) IH0(0.05) S(0.13) AY2(0.24) Z(0.12)
+F2BJRLP2 maffy         23.94- 24.33s  M(0.05) AE1(0.12) F(0.10) IY0(0.12)
+
+--- alignment_analysis.csv: log-likelihood columns ---
+baseline columns: ['overall_log_likelihood', 'speech_log_likelihood']
+   F2BJRLP1                           overall_log_likelihood=-45.81 speech_log_likelihood=-45.88
+   F2BJRLP2                           overall_log_likelihood=-45.43 speech_log_likelihood=-45.73
+   ISLE_SESS0131_BLOCKD02_03_sprt1    overall_log_likelihood=-43.86 speech_log_likelihood=-53.58
+   F2BJRLP3                           overall_log_likelihood=-46.00 speech_log_likelihood=-46.89
+   ISLE_SESS0131_BLOCKD02_02_sprt1    overall_log_likelihood=-44.83 speech_log_likelihood=-50.92
+   ISLE_SESS0131_BLOCKD02_01_sprt1    overall_log_likelihood=-43.27 speech_log_likelihood=-52.38
+custom columns: ['overall_log_likelihood', 'speech_log_likelihood']
+   F2BJRLP1                           overall_log_likelihood=-45.27 speech_log_likelihood=-45.95
+   F2BJRLP2                           overall_log_likelihood=-45.04 speech_log_likelihood=-45.79
+   ISLE_SESS0131_BLOCKD02_03_sprt1    overall_log_likelihood=-43.81 speech_log_likelihood=-53.57
+   F2BJRLP3                           overall_log_likelihood=-46.00 speech_log_likelihood=-46.89
+   ISLE_SESS0131_BLOCKD02_02_sprt1    overall_log_likelihood=-44.84 speech_log_likelihood=-50.96
+   ISLE_SESS0131_BLOCKD02_01_sprt1    overall_log_likelihood=-43.27 speech_log_likelihood=-52.37
