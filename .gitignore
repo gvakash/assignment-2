@@ -2,4 +2,4 @@
 __pycache__/
 *.pyc
 .venv/
-2b_emotion_recognition/data/
+Multimodal Emotion Recognition/data/
