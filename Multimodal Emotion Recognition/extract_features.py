@@ -1,5 +1,4 @@
-"""Preprocessing + feature extraction (speech): resample to 16 kHz, peak-normalise,
-trim edge silence, compute 64-band log-mel spectrograms, cache to features/."""
+"""This script extracts log-mel spectrograms from speech data."""
 import time
 from pathlib import Path
 import numpy as np, pandas as pd, soundfile as sf, torch, torchaudio
@@ -42,7 +41,7 @@ for p in tqdm(df.path, desc="extracting"):
     w = load(p)
     wt = trim(w)
     raw_d.append(len(w) / SR); trim_d.append(len(wt) / SR)
-    mels.append(torch.log(mel_fn(wt) + 1e-6))             # (N_MELS, frames)
+    mels.append(torch.log(mel_fn(wt) + 1e-6))            
 
 torch.save({"mels": mels, "paths": df.path.tolist(), "sr": SR, "hop": HOP, "n_mels": N_MELS},
            OUT / "speech_logmel.pt")
@@ -54,7 +53,7 @@ print(f"duration trimmed: mean {np.mean(trim_d):.2f}s  min {np.min(trim_d):.2f} 
 print(f"frames: min {frames.min()}  mean {frames.mean():.0f}  max {frames.max()}   (10 ms each)")
 print("feature shape example:", tuple(mels[0].shape))
 
-# one example spectrogram per emotion (same word, same speaker)
+# one example spectrogram per emotion 
 word = "back" if "back" in set(df.word) else df.word.iloc[0]
 fig, axes = plt.subplots(2, 4, figsize=(14, 5.5)); axes = axes.ravel()
 for ax, e in zip(axes, sorted(df.emotion.unique())):

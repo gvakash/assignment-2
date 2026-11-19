@@ -1,7 +1,3 @@
-"""Build an MFA corpus (wav + .lab pairs) from raw/ (wav + .txt/.TXT transcripts).
-
-Usage:  python scripts/prepare_corpus.py raw corpus
-"""
 import re, shutil, sys
 from pathlib import Path
 
@@ -14,7 +10,7 @@ for wav in sorted(raw.glob("*.wav")):
     if txt is None:
         print("NO TRANSCRIPT for", wav.name); continue
     text = txt.read_text(encoding="utf-8", errors="replace")
-    clean = re.sub(r"-\s+", " ", text)          # "seventy- six" -> "seventy six"
+    clean = re.sub(r"-\s+", " ", text)          # "seventy- six"
     clean = re.sub(r"\s+", " ", clean).strip().upper()
     shutil.copy(wav, out / wav.name)
     (out / (wav.stem + ".lab")).write_text(clean + "\n", encoding="utf-8")
