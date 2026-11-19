@@ -1,0 +1,10 @@
+dictionary: english_us_arpa.dict, 199860 entries
+
+OOV types: 6   OOV tokens: 7
+
+de-politicize        x1   F2BJRLP2
+dukakis              x2   F2BJRLP1, F2BJRLP2
+maffy                x1   F2BJRLP2
+melnicove            x1   F2BJRLP1
+s.j.c.'s             x1   F2BJRLP1
+wbur's               x1   F2BJRLP1
