@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+*.pyc
+dictionary/english_us_arpa_custom.dict
