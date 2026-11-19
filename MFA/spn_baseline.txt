@@ -1,0 +1,6 @@
+F2BJRLP1                           15.45-  16.00s  (0.55s)  word: dukakis
+F2BJRLP1                           20.56-  21.33s  (0.77s)  word: wbur's
+F2BJRLP1                           21.75-  22.28s  (0.53s)  word: melnicove
+F2BJRLP2                            2.73-   3.35s  (0.62s)  word: dukakis
+F2BJRLP2                            5.66-   6.53s  (0.87s)  word: politicize
+F2BJRLP2                           23.93-  24.34s  (0.41s)  word: maffy
