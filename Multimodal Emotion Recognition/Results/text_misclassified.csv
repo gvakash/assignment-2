@@ -1,0 +1,1081 @@
+seed,path,speaker,word,true,pred,confidence
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_cause_fear.wav,OAF,cause,fear,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_chain_fear.wav,OAF,chain,fear,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_dime_fear.wav,OAF,dime,fear,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_gas_fear.wav,OAF,gas,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_hash_fear.wav,OAF,hash,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_hire_fear.wav,OAF,hire,fear,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_hush_fear.wav,OAF,hush,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_jail_fear.wav,OAF,jail,fear,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_jar_fear.wav,OAF,jar,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_join_fear.wav,OAF,join,fear,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_judge_fear.wav,OAF,judge,fear,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_kite_fear.wav,OAF,kite,fear,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_lean_fear.wav,OAF,lean,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_lease_fear.wav,OAF,lease,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_lot_fear.wav,OAF,lot,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_luck_fear.wav,OAF,luck,fear,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_pad_fear.wav,OAF,pad,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_pike_fear.wav,OAF,pike,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_pole_fear.wav,OAF,pole,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_rag_fear.wav,OAF,rag,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_rat_fear.wav,OAF,rat,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_sell_fear.wav,OAF,sell,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_sheep_fear.wav,OAF,sheep,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_soup_fear.wav,OAF,soup,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_talk_fear.wav,OAF,talk,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_third_fear.wav,OAF,third,fear,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_tip_fear.wav,OAF,tip,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_tool_fear.wav,OAF,tool,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_void_fear.wav,OAF,void,fear,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Fear/OAF_wash_fear.wav,OAF,wash,fear,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_cause_ps.wav,OAF,cause,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_chain_ps.wav,OAF,chain,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_dime_ps.wav,OAF,dime,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_gas_ps.wav,OAF,gas,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_hash_ps.wav,OAF,hash,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_hire_ps.wav,OAF,hire,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_hush_ps.wav,OAF,hush,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_jail_ps.wav,OAF,jail,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_jar_ps.wav,OAF,jar,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_join_ps.wav,OAF,join,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_judge_ps.wav,OAF,judge,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_kite_ps.wav,OAF,kite,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_lean_ps.wav,OAF,lean,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_lease_ps.wav,OAF,lease,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_lot_ps.wav,OAF,lot,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_luck_ps.wav,OAF,luck,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_pad_ps.wav,OAF,pad,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_pike_ps.wav,OAF,pike,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_pole_ps.wav,OAF,pole,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_rag_ps.wav,OAF,rag,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_rat_ps.wav,OAF,rat,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_sell_ps.wav,OAF,sell,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_sheep_ps.wav,OAF,sheep,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_soup_ps.wav,OAF,soup,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_talk_ps.wav,OAF,talk,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_third_ps.wav,OAF,third,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_tip_ps.wav,OAF,tip,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_tool_ps.wav,OAF,tool,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_void_ps.wav,OAF,void,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_wash_ps.wav,OAF,wash,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_cause_sad.wav,OAF,cause,sad,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_chain_sad.wav,OAF,chain,sad,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_dime_sad.wav,OAF,dime,sad,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_gas_sad.wav,OAF,gas,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_hash_sad.wav,OAF,hash,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_hire_sad.wav,OAF,hire,sad,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_hush_sad.wav,OAF,hush,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_jail_sad.wav,OAF,jail,sad,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_jar_sad.wav,OAF,jar,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_join_sad.wav,OAF,join,sad,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_judge_sad.wav,OAF,judge,sad,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_kite_sad.wav,OAF,kite,sad,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_lean_sad.wav,OAF,lean,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_lease_sad.wav,OAF,lease,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_lot_sad.wav,OAF,lot,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_luck_sad.wav,OAF,luck,sad,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_pad_sad.wav,OAF,pad,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_pike_sad.wav,OAF,pike,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_pole_sad.wav,OAF,pole,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_rag_sad.wav,OAF,rag,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_rat_sad.wav,OAF,rat,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_sell_sad.wav,OAF,sell,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_sheep_sad.wav,OAF,sheep,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_soup_sad.wav,OAF,soup,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_talk_sad.wav,OAF,talk,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_third_sad.wav,OAF,third,sad,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_tip_sad.wav,OAF,tip,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_tool_sad.wav,OAF,tool,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_void_sad.wav,OAF,void,sad,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_Sad/OAF_wash_sad.wav,OAF,wash,sad,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_cause_angry.wav,OAF,cause,angry,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_chain_angry.wav,OAF,chain,angry,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_dime_angry.wav,OAF,dime,angry,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_gas_angry.wav,OAF,gas,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_hash_angry.wav,OAF,hash,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_hire_angry.wav,OAF,hire,angry,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_hush_angry.wav,OAF,hush,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_jail_angry.wav,OAF,jail,angry,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_jar_angry.wav,OAF,jar,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_join_angry.wav,OAF,join,angry,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_judge_angry.wav,OAF,judge,angry,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_kite_angry.wav,OAF,kite,angry,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_lean_angry.wav,OAF,lean,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_lease_angry.wav,OAF,lease,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_lot_angry.wav,OAF,lot,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_luck_angry.wav,OAF,luck,angry,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_pad_angry.wav,OAF,pad,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_pike_angry.wav,OAF,pike,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_pole_angry.wav,OAF,pole,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_rag_angry.wav,OAF,rag,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_rat_angry.wav,OAF,rat,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_sell_angry.wav,OAF,sell,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_sheep_angry.wav,OAF,sheep,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_soup_angry.wav,OAF,soup,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_talk_angry.wav,OAF,talk,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_third_angry.wav,OAF,third,angry,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_tip_angry.wav,OAF,tip,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_tool_angry.wav,OAF,tool,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_void_angry.wav,OAF,void,angry,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_angry/OAF_wash_angry.wav,OAF,wash,angry,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_cause_disgust.wav,OAF,cause,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_chain_disgust.wav,OAF,chain,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_dime_disgust.wav,OAF,dime,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_gas_disgust.wav,OAF,gas,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_hash_disgust.wav,OAF,hash,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_hire_disgust.wav,OAF,hire,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_hush_disgust.wav,OAF,hush,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_jail_disgust.wav,OAF,jail,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_jar_disgust.wav,OAF,jar,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_join_disgust.wav,OAF,join,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_judge_disgust.wav,OAF,judge,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_kite_disgust.wav,OAF,kite,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_lean_disgust.wav,OAF,lean,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_lease_disgust.wav,OAF,lease,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_lot_disgust.wav,OAF,lot,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_luck_disgust.wav,OAF,luck,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_pad_disgust.wav,OAF,pad,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_pike_disgust.wav,OAF,pike,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_pole_disgust.wav,OAF,pole,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_rag_disgust.wav,OAF,rag,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_rat_disgust.wav,OAF,rat,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_sell_disgust.wav,OAF,sell,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_sheep_disgust.wav,OAF,sheep,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_soup_disgust.wav,OAF,soup,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_talk_disgust.wav,OAF,talk,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_third_disgust.wav,OAF,third,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_tip_disgust.wav,OAF,tip,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_tool_disgust.wav,OAF,tool,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_void_disgust.wav,OAF,void,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_disgust/OAF_wash_disgust.wav,OAF,wash,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_cause_neutral.wav,OAF,cause,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_chain_neutral.wav,OAF,chain,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_dime_neutral.wav,OAF,dime,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_gas_neutral.wav,OAF,gas,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_hash_neutral.wav,OAF,hash,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_hire_neutral.wav,OAF,hire,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_hush_neutral.wav,OAF,hush,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_jail_neutral.wav,OAF,jail,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_jar_neutral.wav,OAF,jar,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_join_neutral.wav,OAF,join,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_judge_neutral.wav,OAF,judge,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_kite_neutral.wav,OAF,kite,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_lean_neutral.wav,OAF,lean,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_lease_neutral.wav,OAF,lease,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_lot_neutral.wav,OAF,lot,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_luck_neutral.wav,OAF,luck,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_pad_neutral.wav,OAF,pad,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_pike_neutral.wav,OAF,pike,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_pole_neutral.wav,OAF,pole,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_rag_neutral.wav,OAF,rag,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_rat_neutral.wav,OAF,rat,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_sell_neutral.wav,OAF,sell,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_sheep_neutral.wav,OAF,sheep,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_soup_neutral.wav,OAF,soup,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_talk_neutral.wav,OAF,talk,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_third_neutral.wav,OAF,third,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_tip_neutral.wav,OAF,tip,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_tool_neutral.wav,OAF,tool,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_void_neutral.wav,OAF,void,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/OAF_neutral/OAF_wash_neutral.wav,OAF,wash,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_cause_angry.wav,YAF,cause,angry,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_chain_angry.wav,YAF,chain,angry,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_dime_angry.wav,YAF,dime,angry,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_gas_angry.wav,YAF,gas,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_hash_angry.wav,YAF,hash,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_hire_angry.wav,YAF,hire,angry,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_hush_angry.wav,YAF,hush,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_jail_angry.wav,YAF,jail,angry,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_jar_angry.wav,YAF,jar,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_join_angry.wav,YAF,join,angry,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_judge_angry.wav,YAF,judge,angry,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_kite_angry.wav,YAF,kite,angry,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_lean_angry.wav,YAF,lean,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_lease_angry.wav,YAF,lease,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_lot_angry.wav,YAF,lot,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_luck_angry.wav,YAF,luck,angry,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_pad_angry.wav,YAF,pad,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_pike_angry.wav,YAF,pike,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_pole_angry.wav,YAF,pole,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_rag_angry.wav,YAF,rag,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_rat_angry.wav,YAF,rat,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_sell_angry.wav,YAF,sell,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_sheep_angry.wav,YAF,sheep,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_soup_angry.wav,YAF,soup,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_talk_angry.wav,YAF,talk,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_third_angry.wav,YAF,third,angry,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_tip_angry.wav,YAF,tip,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_tool_angry.wav,YAF,tool,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_void_angry.wav,YAF,void,angry,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_wash_angry.wav,YAF,wash,angry,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_cause_disgust.wav,YAF,cause,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_chain_disgust.wav,YAF,chain,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_dime_disgust.wav,YAF,dime,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_gas_disgust.wav,YAF,gas,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_hash_disgust.wav,YAF,hash,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_hire_disgust.wav,YAF,hire,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_hush_disgust.wav,YAF,hush,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_jail_disgust.wav,YAF,jail,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_jar_disgust.wav,YAF,jar,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_join_disgust.wav,YAF,join,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_judge_disgust.wav,YAF,judge,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_kite_disgust.wav,YAF,kite,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_lean_disgust.wav,YAF,lean,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_lease_disgust.wav,YAF,lease,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_lot_disgust.wav,YAF,lot,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_luck_disgust.wav,YAF,luck,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_pad_disgust.wav,YAF,pad,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_pike_disgust.wav,YAF,pike,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_pole_disgust.wav,YAF,pole,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_rag_disgust.wav,YAF,rag,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_rat_disgust.wav,YAF,rat,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_sell_disgust.wav,YAF,sell,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_sheep_disgust.wav,YAF,sheep,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_soup_disgust.wav,YAF,soup,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_talk_disgust.wav,YAF,talk,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_third_disgust.wav,YAF,third,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_tip_disgust.wav,YAF,tip,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_tool_disgust.wav,YAF,tool,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_void_disgust.wav,YAF,void,disgust,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_wash_disgust.wav,YAF,wash,disgust,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_cause_fear.wav,YAF,cause,fear,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_chain_fear.wav,YAF,chain,fear,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_dime_fear.wav,YAF,dime,fear,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_gas_fear.wav,YAF,gas,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_hash_fear.wav,YAF,hash,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_hire_fear.wav,YAF,hire,fear,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_hush_fear.wav,YAF,hush,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_jail_fear.wav,YAF,jail,fear,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_jar_fear.wav,YAF,jar,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_join_fear.wav,YAF,join,fear,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_judge_fear.wav,YAF,judge,fear,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_kite_fear.wav,YAF,kite,fear,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_lean_fear.wav,YAF,lean,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_lease_fear.wav,YAF,lease,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_lot_fear.wav,YAF,lot,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_luck_fear.wav,YAF,luck,fear,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_pad_fear.wav,YAF,pad,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_pike_fear.wav,YAF,pike,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_pole_fear.wav,YAF,pole,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_rag_fear.wav,YAF,rag,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_rat_fear.wav,YAF,rat,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_sell_fear.wav,YAF,sell,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_sheep_fear.wav,YAF,sheep,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_soup_fear.wav,YAF,soup,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_talk_fear.wav,YAF,talk,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_third_fear.wav,YAF,third,fear,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_tip_fear.wav,YAF,tip,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_tool_fear.wav,YAF,tool,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_void_fear.wav,YAF,void,fear,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_wash_fear.wav,YAF,wash,fear,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_cause_neutral.wav,YAF,cause,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_chain_neutral.wav,YAF,chain,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_dime_neutral.wav,YAF,dime,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_gas_neutral.wav,YAF,gas,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_hash_neutral.wav,YAF,hash,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_hire_neutral.wav,YAF,hire,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_hush_neutral.wav,YAF,hush,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_jail_neutral.wav,YAF,jail,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_jar_neutral.wav,YAF,jar,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_join_neutral.wav,YAF,join,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_judge_neutral.wav,YAF,judge,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_kite_neutral.wav,YAF,kite,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_lean_neutral.wav,YAF,lean,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_lease_neutral.wav,YAF,lease,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_lot_neutral.wav,YAF,lot,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_luck_neutral.wav,YAF,luck,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_pad_neutral.wav,YAF,pad,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_pike_neutral.wav,YAF,pike,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_pole_neutral.wav,YAF,pole,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_rag_neutral.wav,YAF,rag,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_rat_neutral.wav,YAF,rat,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_sell_neutral.wav,YAF,sell,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_sheep_neutral.wav,YAF,sheep,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_soup_neutral.wav,YAF,soup,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_talk_neutral.wav,YAF,talk,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_third_neutral.wav,YAF,third,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_tip_neutral.wav,YAF,tip,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_tool_neutral.wav,YAF,tool,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_void_neutral.wav,YAF,void,neutral,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_wash_neutral.wav,YAF,wash,neutral,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_cause_ps.wav,YAF,cause,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_chain_ps.wav,YAF,chain,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_dime_ps.wav,YAF,dime,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_gas_ps.wav,YAF,gas,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_hash_ps.wav,YAF,hash,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_hire_ps.wav,YAF,hire,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_hush_ps.wav,YAF,hush,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_jail_ps.wav,YAF,jail,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_jar_ps.wav,YAF,jar,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_join_ps.wav,YAF,join,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_judge_ps.wav,YAF,judge,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_kite_ps.wav,YAF,kite,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_lean_ps.wav,YAF,lean,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_lease_ps.wav,YAF,lease,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_lot_ps.wav,YAF,lot,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_luck_ps.wav,YAF,luck,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_pad_ps.wav,YAF,pad,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_pike_ps.wav,YAF,pike,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_pole_ps.wav,YAF,pole,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_rag_ps.wav,YAF,rag,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_rat_ps.wav,YAF,rat,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_sell_ps.wav,YAF,sell,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_sheep_ps.wav,YAF,sheep,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_soup_ps.wav,YAF,soup,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_talk_ps.wav,YAF,talk,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_third_ps.wav,YAF,third,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_tip_ps.wav,YAF,tip,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_tool_ps.wav,YAF,tool,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_void_ps.wav,YAF,void,pleasant_surprise,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_wash_ps.wav,YAF,wash,pleasant_surprise,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_cause_sad.wav,YAF,cause,sad,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_chain_sad.wav,YAF,chain,sad,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_dime_sad.wav,YAF,dime,sad,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_gas_sad.wav,YAF,gas,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_hash_sad.wav,YAF,hash,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_hire_sad.wav,YAF,hire,sad,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_hush_sad.wav,YAF,hush,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_jail_sad.wav,YAF,jail,sad,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_jar_sad.wav,YAF,jar,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_join_sad.wav,YAF,join,sad,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_judge_sad.wav,YAF,judge,sad,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_kite_sad.wav,YAF,kite,sad,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_lean_sad.wav,YAF,lean,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_lease_sad.wav,YAF,lease,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_lot_sad.wav,YAF,lot,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_luck_sad.wav,YAF,luck,sad,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_pad_sad.wav,YAF,pad,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_pike_sad.wav,YAF,pike,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_pole_sad.wav,YAF,pole,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_rag_sad.wav,YAF,rag,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_rat_sad.wav,YAF,rat,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_sell_sad.wav,YAF,sell,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_sheep_sad.wav,YAF,sheep,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_soup_sad.wav,YAF,soup,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_talk_sad.wav,YAF,talk,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_third_sad.wav,YAF,third,sad,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_tip_sad.wav,YAF,tip,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_tool_sad.wav,YAF,tool,sad,happy,0.144
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_void_sad.wav,YAF,void,sad,happy,0.143
+0,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_wash_sad.wav,YAF,wash,sad,happy,0.144
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_cause_ps.wav,OAF,cause,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_chain_ps.wav,OAF,chain,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_dime_ps.wav,OAF,dime,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_gas_ps.wav,OAF,gas,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_hash_ps.wav,OAF,hash,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_hire_ps.wav,OAF,hire,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_hush_ps.wav,OAF,hush,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_jail_ps.wav,OAF,jail,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_jar_ps.wav,OAF,jar,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_join_ps.wav,OAF,join,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_judge_ps.wav,OAF,judge,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_kite_ps.wav,OAF,kite,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_lean_ps.wav,OAF,lean,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_lease_ps.wav,OAF,lease,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_lot_ps.wav,OAF,lot,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_luck_ps.wav,OAF,luck,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_pad_ps.wav,OAF,pad,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_pike_ps.wav,OAF,pike,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_pole_ps.wav,OAF,pole,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_rag_ps.wav,OAF,rag,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_rat_ps.wav,OAF,rat,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_sell_ps.wav,OAF,sell,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_sheep_ps.wav,OAF,sheep,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_soup_ps.wav,OAF,soup,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_talk_ps.wav,OAF,talk,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_third_ps.wav,OAF,third,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_tip_ps.wav,OAF,tip,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_tool_ps.wav,OAF,tool,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_void_ps.wav,OAF,void,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_wash_ps.wav,OAF,wash,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_cause_sad.wav,OAF,cause,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_chain_sad.wav,OAF,chain,sad,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_dime_sad.wav,OAF,dime,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_gas_sad.wav,OAF,gas,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_hash_sad.wav,OAF,hash,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_hire_sad.wav,OAF,hire,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_hush_sad.wav,OAF,hush,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_jail_sad.wav,OAF,jail,sad,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_jar_sad.wav,OAF,jar,sad,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_join_sad.wav,OAF,join,sad,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_judge_sad.wav,OAF,judge,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_kite_sad.wav,OAF,kite,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_lean_sad.wav,OAF,lean,sad,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_lease_sad.wav,OAF,lease,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_lot_sad.wav,OAF,lot,sad,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_luck_sad.wav,OAF,luck,sad,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_pad_sad.wav,OAF,pad,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_pike_sad.wav,OAF,pike,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_pole_sad.wav,OAF,pole,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_rag_sad.wav,OAF,rag,sad,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_rat_sad.wav,OAF,rat,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_sell_sad.wav,OAF,sell,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_sheep_sad.wav,OAF,sheep,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_soup_sad.wav,OAF,soup,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_talk_sad.wav,OAF,talk,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_third_sad.wav,OAF,third,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_tip_sad.wav,OAF,tip,sad,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_tool_sad.wav,OAF,tool,sad,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_void_sad.wav,OAF,void,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_Sad/OAF_wash_sad.wav,OAF,wash,sad,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_cause_angry.wav,OAF,cause,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_chain_angry.wav,OAF,chain,angry,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_dime_angry.wav,OAF,dime,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_gas_angry.wav,OAF,gas,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_hash_angry.wav,OAF,hash,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_hire_angry.wav,OAF,hire,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_hush_angry.wav,OAF,hush,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_jail_angry.wav,OAF,jail,angry,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_jar_angry.wav,OAF,jar,angry,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_join_angry.wav,OAF,join,angry,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_judge_angry.wav,OAF,judge,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_kite_angry.wav,OAF,kite,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_lean_angry.wav,OAF,lean,angry,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_lease_angry.wav,OAF,lease,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_lot_angry.wav,OAF,lot,angry,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_luck_angry.wav,OAF,luck,angry,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_pad_angry.wav,OAF,pad,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_pike_angry.wav,OAF,pike,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_pole_angry.wav,OAF,pole,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_rag_angry.wav,OAF,rag,angry,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_rat_angry.wav,OAF,rat,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_sell_angry.wav,OAF,sell,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_sheep_angry.wav,OAF,sheep,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_soup_angry.wav,OAF,soup,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_talk_angry.wav,OAF,talk,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_third_angry.wav,OAF,third,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_tip_angry.wav,OAF,tip,angry,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_tool_angry.wav,OAF,tool,angry,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_void_angry.wav,OAF,void,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_angry/OAF_wash_angry.wav,OAF,wash,angry,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_cause_disgust.wav,OAF,cause,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_chain_disgust.wav,OAF,chain,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_dime_disgust.wav,OAF,dime,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_gas_disgust.wav,OAF,gas,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_hash_disgust.wav,OAF,hash,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_hire_disgust.wav,OAF,hire,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_hush_disgust.wav,OAF,hush,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_jail_disgust.wav,OAF,jail,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_jar_disgust.wav,OAF,jar,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_join_disgust.wav,OAF,join,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_judge_disgust.wav,OAF,judge,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_kite_disgust.wav,OAF,kite,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_lean_disgust.wav,OAF,lean,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_lease_disgust.wav,OAF,lease,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_lot_disgust.wav,OAF,lot,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_luck_disgust.wav,OAF,luck,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_pad_disgust.wav,OAF,pad,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_pike_disgust.wav,OAF,pike,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_pole_disgust.wav,OAF,pole,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_rag_disgust.wav,OAF,rag,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_rat_disgust.wav,OAF,rat,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_sell_disgust.wav,OAF,sell,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_sheep_disgust.wav,OAF,sheep,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_soup_disgust.wav,OAF,soup,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_talk_disgust.wav,OAF,talk,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_third_disgust.wav,OAF,third,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_tip_disgust.wav,OAF,tip,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_tool_disgust.wav,OAF,tool,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_void_disgust.wav,OAF,void,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_disgust/OAF_wash_disgust.wav,OAF,wash,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_cause_happy.wav,OAF,cause,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_chain_happy.wav,OAF,chain,happy,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_dime_happy.wav,OAF,dime,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_gas_happy.wav,OAF,gas,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_hash_happy.wav,OAF,hash,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_hire_happy.wav,OAF,hire,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_hush_happy.wav,OAF,hush,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_jail_happy.wav,OAF,jail,happy,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_jar_happy.wav,OAF,jar,happy,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_join_happy.wav,OAF,join,happy,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_judge_happy.wav,OAF,judge,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_kite_happy.wav,OAF,kite,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_lean_happy.wav,OAF,lean,happy,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_lease_happy.wav,OAF,lease,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_lot_happy.wav,OAF,lot,happy,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_luck_happy.wav,OAF,luck,happy,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_pad_happy.wav,OAF,pad,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_pike_happy.wav,OAF,pike,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_pole_happy.wav,OAF,pole,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_rag_happy.wav,OAF,rag,happy,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_rat_happy.wav,OAF,rat,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_sell_happy.wav,OAF,sell,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_sheep_happy.wav,OAF,sheep,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_soup_happy.wav,OAF,soup,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_talk_happy.wav,OAF,talk,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_third_happy.wav,OAF,third,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_tip_happy.wav,OAF,tip,happy,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_tool_happy.wav,OAF,tool,happy,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_void_happy.wav,OAF,void,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_wash_happy.wav,OAF,wash,happy,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_cause_neutral.wav,OAF,cause,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_chain_neutral.wav,OAF,chain,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_dime_neutral.wav,OAF,dime,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_gas_neutral.wav,OAF,gas,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_hash_neutral.wav,OAF,hash,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_hire_neutral.wav,OAF,hire,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_hush_neutral.wav,OAF,hush,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_jail_neutral.wav,OAF,jail,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_jar_neutral.wav,OAF,jar,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_join_neutral.wav,OAF,join,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_judge_neutral.wav,OAF,judge,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_kite_neutral.wav,OAF,kite,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_lean_neutral.wav,OAF,lean,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_lease_neutral.wav,OAF,lease,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_lot_neutral.wav,OAF,lot,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_luck_neutral.wav,OAF,luck,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_pad_neutral.wav,OAF,pad,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_pike_neutral.wav,OAF,pike,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_pole_neutral.wav,OAF,pole,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_rag_neutral.wav,OAF,rag,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_rat_neutral.wav,OAF,rat,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_sell_neutral.wav,OAF,sell,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_sheep_neutral.wav,OAF,sheep,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_soup_neutral.wav,OAF,soup,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_talk_neutral.wav,OAF,talk,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_third_neutral.wav,OAF,third,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_tip_neutral.wav,OAF,tip,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_tool_neutral.wav,OAF,tool,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_void_neutral.wav,OAF,void,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/OAF_neutral/OAF_wash_neutral.wav,OAF,wash,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_cause_angry.wav,YAF,cause,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_chain_angry.wav,YAF,chain,angry,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_dime_angry.wav,YAF,dime,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_gas_angry.wav,YAF,gas,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_hash_angry.wav,YAF,hash,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_hire_angry.wav,YAF,hire,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_hush_angry.wav,YAF,hush,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_jail_angry.wav,YAF,jail,angry,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_jar_angry.wav,YAF,jar,angry,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_join_angry.wav,YAF,join,angry,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_judge_angry.wav,YAF,judge,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_kite_angry.wav,YAF,kite,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_lean_angry.wav,YAF,lean,angry,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_lease_angry.wav,YAF,lease,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_lot_angry.wav,YAF,lot,angry,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_luck_angry.wav,YAF,luck,angry,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_pad_angry.wav,YAF,pad,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_pike_angry.wav,YAF,pike,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_pole_angry.wav,YAF,pole,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_rag_angry.wav,YAF,rag,angry,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_rat_angry.wav,YAF,rat,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_sell_angry.wav,YAF,sell,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_sheep_angry.wav,YAF,sheep,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_soup_angry.wav,YAF,soup,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_talk_angry.wav,YAF,talk,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_third_angry.wav,YAF,third,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_tip_angry.wav,YAF,tip,angry,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_tool_angry.wav,YAF,tool,angry,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_void_angry.wav,YAF,void,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_wash_angry.wav,YAF,wash,angry,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_cause_disgust.wav,YAF,cause,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_chain_disgust.wav,YAF,chain,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_dime_disgust.wav,YAF,dime,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_gas_disgust.wav,YAF,gas,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_hash_disgust.wav,YAF,hash,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_hire_disgust.wav,YAF,hire,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_hush_disgust.wav,YAF,hush,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_jail_disgust.wav,YAF,jail,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_jar_disgust.wav,YAF,jar,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_join_disgust.wav,YAF,join,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_judge_disgust.wav,YAF,judge,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_kite_disgust.wav,YAF,kite,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_lean_disgust.wav,YAF,lean,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_lease_disgust.wav,YAF,lease,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_lot_disgust.wav,YAF,lot,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_luck_disgust.wav,YAF,luck,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_pad_disgust.wav,YAF,pad,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_pike_disgust.wav,YAF,pike,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_pole_disgust.wav,YAF,pole,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_rag_disgust.wav,YAF,rag,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_rat_disgust.wav,YAF,rat,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_sell_disgust.wav,YAF,sell,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_sheep_disgust.wav,YAF,sheep,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_soup_disgust.wav,YAF,soup,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_talk_disgust.wav,YAF,talk,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_third_disgust.wav,YAF,third,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_tip_disgust.wav,YAF,tip,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_tool_disgust.wav,YAF,tool,disgust,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_void_disgust.wav,YAF,void,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_wash_disgust.wav,YAF,wash,disgust,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_cause_happy.wav,YAF,cause,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_chain_happy.wav,YAF,chain,happy,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_dime_happy.wav,YAF,dime,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_gas_happy.wav,YAF,gas,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_hash_happy.wav,YAF,hash,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_hire_happy.wav,YAF,hire,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_hush_happy.wav,YAF,hush,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_jail_happy.wav,YAF,jail,happy,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_jar_happy.wav,YAF,jar,happy,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_join_happy.wav,YAF,join,happy,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_judge_happy.wav,YAF,judge,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_kite_happy.wav,YAF,kite,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_lean_happy.wav,YAF,lean,happy,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_lease_happy.wav,YAF,lease,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_lot_happy.wav,YAF,lot,happy,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_luck_happy.wav,YAF,luck,happy,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_pad_happy.wav,YAF,pad,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_pike_happy.wav,YAF,pike,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_pole_happy.wav,YAF,pole,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_rag_happy.wav,YAF,rag,happy,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_rat_happy.wav,YAF,rat,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_sell_happy.wav,YAF,sell,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_sheep_happy.wav,YAF,sheep,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_soup_happy.wav,YAF,soup,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_talk_happy.wav,YAF,talk,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_third_happy.wav,YAF,third,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_tip_happy.wav,YAF,tip,happy,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_tool_happy.wav,YAF,tool,happy,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_void_happy.wav,YAF,void,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_wash_happy.wav,YAF,wash,happy,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_cause_neutral.wav,YAF,cause,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_chain_neutral.wav,YAF,chain,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_dime_neutral.wav,YAF,dime,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_gas_neutral.wav,YAF,gas,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_hash_neutral.wav,YAF,hash,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_hire_neutral.wav,YAF,hire,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_hush_neutral.wav,YAF,hush,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_jail_neutral.wav,YAF,jail,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_jar_neutral.wav,YAF,jar,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_join_neutral.wav,YAF,join,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_judge_neutral.wav,YAF,judge,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_kite_neutral.wav,YAF,kite,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_lean_neutral.wav,YAF,lean,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_lease_neutral.wav,YAF,lease,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_lot_neutral.wav,YAF,lot,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_luck_neutral.wav,YAF,luck,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_pad_neutral.wav,YAF,pad,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_pike_neutral.wav,YAF,pike,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_pole_neutral.wav,YAF,pole,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_rag_neutral.wav,YAF,rag,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_rat_neutral.wav,YAF,rat,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_sell_neutral.wav,YAF,sell,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_sheep_neutral.wav,YAF,sheep,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_soup_neutral.wav,YAF,soup,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_talk_neutral.wav,YAF,talk,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_third_neutral.wav,YAF,third,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_tip_neutral.wav,YAF,tip,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_tool_neutral.wav,YAF,tool,neutral,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_void_neutral.wav,YAF,void,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_wash_neutral.wav,YAF,wash,neutral,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_cause_ps.wav,YAF,cause,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_chain_ps.wav,YAF,chain,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_dime_ps.wav,YAF,dime,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_gas_ps.wav,YAF,gas,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_hash_ps.wav,YAF,hash,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_hire_ps.wav,YAF,hire,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_hush_ps.wav,YAF,hush,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_jail_ps.wav,YAF,jail,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_jar_ps.wav,YAF,jar,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_join_ps.wav,YAF,join,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_judge_ps.wav,YAF,judge,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_kite_ps.wav,YAF,kite,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_lean_ps.wav,YAF,lean,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_lease_ps.wav,YAF,lease,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_lot_ps.wav,YAF,lot,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_luck_ps.wav,YAF,luck,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_pad_ps.wav,YAF,pad,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_pike_ps.wav,YAF,pike,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_pole_ps.wav,YAF,pole,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_rag_ps.wav,YAF,rag,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_rat_ps.wav,YAF,rat,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_sell_ps.wav,YAF,sell,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_sheep_ps.wav,YAF,sheep,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_soup_ps.wav,YAF,soup,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_talk_ps.wav,YAF,talk,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_third_ps.wav,YAF,third,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_tip_ps.wav,YAF,tip,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_tool_ps.wav,YAF,tool,pleasant_surprise,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_void_ps.wav,YAF,void,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_wash_ps.wav,YAF,wash,pleasant_surprise,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_cause_sad.wav,YAF,cause,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_chain_sad.wav,YAF,chain,sad,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_dime_sad.wav,YAF,dime,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_gas_sad.wav,YAF,gas,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_hash_sad.wav,YAF,hash,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_hire_sad.wav,YAF,hire,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_hush_sad.wav,YAF,hush,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_jail_sad.wav,YAF,jail,sad,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_jar_sad.wav,YAF,jar,sad,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_join_sad.wav,YAF,join,sad,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_judge_sad.wav,YAF,judge,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_kite_sad.wav,YAF,kite,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_lean_sad.wav,YAF,lean,sad,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_lease_sad.wav,YAF,lease,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_lot_sad.wav,YAF,lot,sad,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_luck_sad.wav,YAF,luck,sad,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_pad_sad.wav,YAF,pad,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_pike_sad.wav,YAF,pike,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_pole_sad.wav,YAF,pole,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_rag_sad.wav,YAF,rag,sad,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_rat_sad.wav,YAF,rat,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_sell_sad.wav,YAF,sell,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_sheep_sad.wav,YAF,sheep,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_soup_sad.wav,YAF,soup,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_talk_sad.wav,YAF,talk,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_third_sad.wav,YAF,third,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_tip_sad.wav,YAF,tip,sad,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_tool_sad.wav,YAF,tool,sad,fear,0.144
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_void_sad.wav,YAF,void,sad,fear,0.143
+1,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_wash_sad.wav,YAF,wash,sad,fear,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_cause_fear.wav,OAF,cause,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_chain_fear.wav,OAF,chain,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_dime_fear.wav,OAF,dime,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_gas_fear.wav,OAF,gas,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_hash_fear.wav,OAF,hash,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_hire_fear.wav,OAF,hire,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_hush_fear.wav,OAF,hush,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_jail_fear.wav,OAF,jail,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_jar_fear.wav,OAF,jar,fear,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_join_fear.wav,OAF,join,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_judge_fear.wav,OAF,judge,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_kite_fear.wav,OAF,kite,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_lean_fear.wav,OAF,lean,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_lease_fear.wav,OAF,lease,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_lot_fear.wav,OAF,lot,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_luck_fear.wav,OAF,luck,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_pad_fear.wav,OAF,pad,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_pike_fear.wav,OAF,pike,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_pole_fear.wav,OAF,pole,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_rag_fear.wav,OAF,rag,fear,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_rat_fear.wav,OAF,rat,fear,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_sell_fear.wav,OAF,sell,fear,happy,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_sheep_fear.wav,OAF,sheep,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_soup_fear.wav,OAF,soup,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_talk_fear.wav,OAF,talk,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_third_fear.wav,OAF,third,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_tip_fear.wav,OAF,tip,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_tool_fear.wav,OAF,tool,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_void_fear.wav,OAF,void,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Fear/OAF_wash_fear.wav,OAF,wash,fear,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_cause_ps.wav,OAF,cause,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_chain_ps.wav,OAF,chain,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_dime_ps.wav,OAF,dime,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_gas_ps.wav,OAF,gas,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_hash_ps.wav,OAF,hash,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_hire_ps.wav,OAF,hire,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_hush_ps.wav,OAF,hush,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_jail_ps.wav,OAF,jail,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_jar_ps.wav,OAF,jar,pleasant_surprise,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_join_ps.wav,OAF,join,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_judge_ps.wav,OAF,judge,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_kite_ps.wav,OAF,kite,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_lean_ps.wav,OAF,lean,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_lease_ps.wav,OAF,lease,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_lot_ps.wav,OAF,lot,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_luck_ps.wav,OAF,luck,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_pad_ps.wav,OAF,pad,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_pike_ps.wav,OAF,pike,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_pole_ps.wav,OAF,pole,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_rag_ps.wav,OAF,rag,pleasant_surprise,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_rat_ps.wav,OAF,rat,pleasant_surprise,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_sell_ps.wav,OAF,sell,pleasant_surprise,happy,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_sheep_ps.wav,OAF,sheep,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_soup_ps.wav,OAF,soup,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_talk_ps.wav,OAF,talk,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_third_ps.wav,OAF,third,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_tip_ps.wav,OAF,tip,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_tool_ps.wav,OAF,tool,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_void_ps.wav,OAF,void,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_wash_ps.wav,OAF,wash,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_Sad/OAF_cause_sad.wav,OAF,cause,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Sad/OAF_chain_sad.wav,OAF,chain,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Sad/OAF_gas_sad.wav,OAF,gas,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Sad/OAF_join_sad.wav,OAF,join,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Sad/OAF_judge_sad.wav,OAF,judge,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Sad/OAF_pad_sad.wav,OAF,pad,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Sad/OAF_pike_sad.wav,OAF,pike,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Sad/OAF_sell_sad.wav,OAF,sell,sad,happy,0.143
+2,TESS Toronto emotional speech set data/OAF_Sad/OAF_sheep_sad.wav,OAF,sheep,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Sad/OAF_soup_sad.wav,OAF,soup,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_Sad/OAF_third_sad.wav,OAF,third,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_cause_angry.wav,OAF,cause,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_chain_angry.wav,OAF,chain,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_dime_angry.wav,OAF,dime,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_gas_angry.wav,OAF,gas,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_hash_angry.wav,OAF,hash,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_hire_angry.wav,OAF,hire,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_hush_angry.wav,OAF,hush,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_jail_angry.wav,OAF,jail,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_jar_angry.wav,OAF,jar,angry,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_join_angry.wav,OAF,join,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_judge_angry.wav,OAF,judge,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_kite_angry.wav,OAF,kite,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_lean_angry.wav,OAF,lean,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_lease_angry.wav,OAF,lease,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_lot_angry.wav,OAF,lot,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_luck_angry.wav,OAF,luck,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_pad_angry.wav,OAF,pad,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_pike_angry.wav,OAF,pike,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_pole_angry.wav,OAF,pole,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_rag_angry.wav,OAF,rag,angry,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_rat_angry.wav,OAF,rat,angry,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_sell_angry.wav,OAF,sell,angry,happy,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_sheep_angry.wav,OAF,sheep,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_soup_angry.wav,OAF,soup,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_talk_angry.wav,OAF,talk,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_third_angry.wav,OAF,third,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_tip_angry.wav,OAF,tip,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_tool_angry.wav,OAF,tool,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_void_angry.wav,OAF,void,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_angry/OAF_wash_angry.wav,OAF,wash,angry,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_dime_disgust.wav,OAF,dime,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_hash_disgust.wav,OAF,hash,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_hire_disgust.wav,OAF,hire,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_hush_disgust.wav,OAF,hush,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_jail_disgust.wav,OAF,jail,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_jar_disgust.wav,OAF,jar,disgust,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_kite_disgust.wav,OAF,kite,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_lean_disgust.wav,OAF,lean,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_lease_disgust.wav,OAF,lease,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_lot_disgust.wav,OAF,lot,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_luck_disgust.wav,OAF,luck,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_pole_disgust.wav,OAF,pole,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_rag_disgust.wav,OAF,rag,disgust,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_rat_disgust.wav,OAF,rat,disgust,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_sell_disgust.wav,OAF,sell,disgust,happy,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_talk_disgust.wav,OAF,talk,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_tip_disgust.wav,OAF,tip,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_tool_disgust.wav,OAF,tool,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_void_disgust.wav,OAF,void,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_disgust/OAF_wash_disgust.wav,OAF,wash,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_cause_happy.wav,OAF,cause,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_chain_happy.wav,OAF,chain,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_dime_happy.wav,OAF,dime,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_gas_happy.wav,OAF,gas,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_hash_happy.wav,OAF,hash,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_hire_happy.wav,OAF,hire,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_hush_happy.wav,OAF,hush,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_jail_happy.wav,OAF,jail,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_jar_happy.wav,OAF,jar,happy,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_join_happy.wav,OAF,join,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_judge_happy.wav,OAF,judge,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_kite_happy.wav,OAF,kite,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_lean_happy.wav,OAF,lean,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_lease_happy.wav,OAF,lease,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_lot_happy.wav,OAF,lot,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_luck_happy.wav,OAF,luck,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_pad_happy.wav,OAF,pad,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_pike_happy.wav,OAF,pike,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_pole_happy.wav,OAF,pole,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_rag_happy.wav,OAF,rag,happy,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_rat_happy.wav,OAF,rat,happy,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_sheep_happy.wav,OAF,sheep,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_soup_happy.wav,OAF,soup,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_talk_happy.wav,OAF,talk,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_third_happy.wav,OAF,third,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_tip_happy.wav,OAF,tip,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_tool_happy.wav,OAF,tool,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_void_happy.wav,OAF,void,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_happy/OAF_wash_happy.wav,OAF,wash,happy,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_cause_neutral.wav,OAF,cause,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_chain_neutral.wav,OAF,chain,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_dime_neutral.wav,OAF,dime,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_gas_neutral.wav,OAF,gas,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_hash_neutral.wav,OAF,hash,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_hire_neutral.wav,OAF,hire,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_hush_neutral.wav,OAF,hush,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_jail_neutral.wav,OAF,jail,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_jar_neutral.wav,OAF,jar,neutral,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_join_neutral.wav,OAF,join,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_judge_neutral.wav,OAF,judge,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_kite_neutral.wav,OAF,kite,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_lean_neutral.wav,OAF,lean,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_lease_neutral.wav,OAF,lease,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_lot_neutral.wav,OAF,lot,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_luck_neutral.wav,OAF,luck,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_pad_neutral.wav,OAF,pad,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_pike_neutral.wav,OAF,pike,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_pole_neutral.wav,OAF,pole,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_rag_neutral.wav,OAF,rag,neutral,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_rat_neutral.wav,OAF,rat,neutral,sad,0.144
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_sell_neutral.wav,OAF,sell,neutral,happy,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_sheep_neutral.wav,OAF,sheep,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_soup_neutral.wav,OAF,soup,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_talk_neutral.wav,OAF,talk,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_third_neutral.wav,OAF,third,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_tip_neutral.wav,OAF,tip,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_tool_neutral.wav,OAF,tool,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_void_neutral.wav,OAF,void,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/OAF_neutral/OAF_wash_neutral.wav,OAF,wash,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_cause_angry.wav,YAF,cause,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_chain_angry.wav,YAF,chain,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_dime_angry.wav,YAF,dime,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_gas_angry.wav,YAF,gas,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_hash_angry.wav,YAF,hash,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_hire_angry.wav,YAF,hire,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_hush_angry.wav,YAF,hush,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_jail_angry.wav,YAF,jail,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_jar_angry.wav,YAF,jar,angry,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_join_angry.wav,YAF,join,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_judge_angry.wav,YAF,judge,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_kite_angry.wav,YAF,kite,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_lean_angry.wav,YAF,lean,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_lease_angry.wav,YAF,lease,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_lot_angry.wav,YAF,lot,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_luck_angry.wav,YAF,luck,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_pad_angry.wav,YAF,pad,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_pike_angry.wav,YAF,pike,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_pole_angry.wav,YAF,pole,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_rag_angry.wav,YAF,rag,angry,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_rat_angry.wav,YAF,rat,angry,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_sell_angry.wav,YAF,sell,angry,happy,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_sheep_angry.wav,YAF,sheep,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_soup_angry.wav,YAF,soup,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_talk_angry.wav,YAF,talk,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_third_angry.wav,YAF,third,angry,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_tip_angry.wav,YAF,tip,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_tool_angry.wav,YAF,tool,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_void_angry.wav,YAF,void,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_angry/YAF_wash_angry.wav,YAF,wash,angry,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_dime_disgust.wav,YAF,dime,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_hash_disgust.wav,YAF,hash,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_hire_disgust.wav,YAF,hire,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_hush_disgust.wav,YAF,hush,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_jail_disgust.wav,YAF,jail,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_jar_disgust.wav,YAF,jar,disgust,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_kite_disgust.wav,YAF,kite,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_lean_disgust.wav,YAF,lean,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_lease_disgust.wav,YAF,lease,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_lot_disgust.wav,YAF,lot,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_luck_disgust.wav,YAF,luck,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_pole_disgust.wav,YAF,pole,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_rag_disgust.wav,YAF,rag,disgust,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_rat_disgust.wav,YAF,rat,disgust,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_sell_disgust.wav,YAF,sell,disgust,happy,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_talk_disgust.wav,YAF,talk,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_tip_disgust.wav,YAF,tip,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_tool_disgust.wav,YAF,tool,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_void_disgust.wav,YAF,void,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_disgust/YAF_wash_disgust.wav,YAF,wash,disgust,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_cause_fear.wav,YAF,cause,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_chain_fear.wav,YAF,chain,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_dime_fear.wav,YAF,dime,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_gas_fear.wav,YAF,gas,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_hash_fear.wav,YAF,hash,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_hire_fear.wav,YAF,hire,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_hush_fear.wav,YAF,hush,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_jail_fear.wav,YAF,jail,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_jar_fear.wav,YAF,jar,fear,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_join_fear.wav,YAF,join,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_judge_fear.wav,YAF,judge,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_kite_fear.wav,YAF,kite,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_lean_fear.wav,YAF,lean,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_lease_fear.wav,YAF,lease,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_lot_fear.wav,YAF,lot,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_luck_fear.wav,YAF,luck,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_pad_fear.wav,YAF,pad,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_pike_fear.wav,YAF,pike,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_pole_fear.wav,YAF,pole,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_rag_fear.wav,YAF,rag,fear,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_rat_fear.wav,YAF,rat,fear,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_sell_fear.wav,YAF,sell,fear,happy,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_sheep_fear.wav,YAF,sheep,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_soup_fear.wav,YAF,soup,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_talk_fear.wav,YAF,talk,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_third_fear.wav,YAF,third,fear,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_tip_fear.wav,YAF,tip,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_tool_fear.wav,YAF,tool,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_void_fear.wav,YAF,void,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_wash_fear.wav,YAF,wash,fear,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_cause_happy.wav,YAF,cause,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_chain_happy.wav,YAF,chain,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_dime_happy.wav,YAF,dime,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_gas_happy.wav,YAF,gas,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_hash_happy.wav,YAF,hash,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_hire_happy.wav,YAF,hire,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_hush_happy.wav,YAF,hush,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_jail_happy.wav,YAF,jail,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_jar_happy.wav,YAF,jar,happy,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_join_happy.wav,YAF,join,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_judge_happy.wav,YAF,judge,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_kite_happy.wav,YAF,kite,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_lean_happy.wav,YAF,lean,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_lease_happy.wav,YAF,lease,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_lot_happy.wav,YAF,lot,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_luck_happy.wav,YAF,luck,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_pad_happy.wav,YAF,pad,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_pike_happy.wav,YAF,pike,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_pole_happy.wav,YAF,pole,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_rag_happy.wav,YAF,rag,happy,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_rat_happy.wav,YAF,rat,happy,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_sheep_happy.wav,YAF,sheep,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_soup_happy.wav,YAF,soup,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_talk_happy.wav,YAF,talk,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_third_happy.wav,YAF,third,happy,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_tip_happy.wav,YAF,tip,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_tool_happy.wav,YAF,tool,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_void_happy.wav,YAF,void,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_wash_happy.wav,YAF,wash,happy,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_cause_neutral.wav,YAF,cause,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_chain_neutral.wav,YAF,chain,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_dime_neutral.wav,YAF,dime,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_gas_neutral.wav,YAF,gas,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_hash_neutral.wav,YAF,hash,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_hire_neutral.wav,YAF,hire,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_hush_neutral.wav,YAF,hush,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_jail_neutral.wav,YAF,jail,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_jar_neutral.wav,YAF,jar,neutral,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_join_neutral.wav,YAF,join,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_judge_neutral.wav,YAF,judge,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_kite_neutral.wav,YAF,kite,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_lean_neutral.wav,YAF,lean,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_lease_neutral.wav,YAF,lease,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_lot_neutral.wav,YAF,lot,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_luck_neutral.wav,YAF,luck,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_pad_neutral.wav,YAF,pad,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_pike_neutral.wav,YAF,pike,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_pole_neutral.wav,YAF,pole,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_rag_neutral.wav,YAF,rag,neutral,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_rat_neutral.wav,YAF,rat,neutral,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_sell_neutral.wav,YAF,sell,neutral,happy,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_sheep_neutral.wav,YAF,sheep,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_soup_neutral.wav,YAF,soup,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_talk_neutral.wav,YAF,talk,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_third_neutral.wav,YAF,third,neutral,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_tip_neutral.wav,YAF,tip,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_tool_neutral.wav,YAF,tool,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_void_neutral.wav,YAF,void,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_neutral/YAF_wash_neutral.wav,YAF,wash,neutral,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_cause_ps.wav,YAF,cause,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_chain_ps.wav,YAF,chain,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_dime_ps.wav,YAF,dime,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_gas_ps.wav,YAF,gas,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_hash_ps.wav,YAF,hash,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_hire_ps.wav,YAF,hire,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_hush_ps.wav,YAF,hush,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_jail_ps.wav,YAF,jail,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_jar_ps.wav,YAF,jar,pleasant_surprise,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_join_ps.wav,YAF,join,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_judge_ps.wav,YAF,judge,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_kite_ps.wav,YAF,kite,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_lean_ps.wav,YAF,lean,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_lease_ps.wav,YAF,lease,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_lot_ps.wav,YAF,lot,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_luck_ps.wav,YAF,luck,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_pad_ps.wav,YAF,pad,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_pike_ps.wav,YAF,pike,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_pole_ps.wav,YAF,pole,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_rag_ps.wav,YAF,rag,pleasant_surprise,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_rat_ps.wav,YAF,rat,pleasant_surprise,sad,0.144
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_sell_ps.wav,YAF,sell,pleasant_surprise,happy,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_sheep_ps.wav,YAF,sheep,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_soup_ps.wav,YAF,soup,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_talk_ps.wav,YAF,talk,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_third_ps.wav,YAF,third,pleasant_surprise,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_tip_ps.wav,YAF,tip,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_tool_ps.wav,YAF,tool,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_void_ps.wav,YAF,void,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_wash_ps.wav,YAF,wash,pleasant_surprise,sad,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_cause_sad.wav,YAF,cause,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_chain_sad.wav,YAF,chain,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_gas_sad.wav,YAF,gas,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_join_sad.wav,YAF,join,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_judge_sad.wav,YAF,judge,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_pad_sad.wav,YAF,pad,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_pike_sad.wav,YAF,pike,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_sell_sad.wav,YAF,sell,sad,happy,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_sheep_sad.wav,YAF,sheep,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_soup_sad.wav,YAF,soup,sad,disgust,0.143
+2,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_sad/YAF_third_sad.wav,YAF,third,sad,disgust,0.143
