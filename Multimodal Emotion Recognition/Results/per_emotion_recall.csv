@@ -1,0 +1,8 @@
+,Speech-only,Text-only,Fusion (concat),Fusion (gated)
+angry,100.0,0.0,100.0,100.0
+disgust,100.0,11.1,100.0,100.0
+fear,100.0,33.3,100.0,100.0
+happy,99.4,34.4,99.4,99.4
+neutral,100.0,0.0,100.0,100.0
+pleasant_surprise,98.9,0.0,99.4,99.4
+sad,100.0,21.1,100.0,100.0

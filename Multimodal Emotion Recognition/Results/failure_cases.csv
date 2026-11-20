@@ -1,0 +1,3 @@
+path,true,predicted_as,n_failures,max_confidence,models
+TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_pad_ps.wav,pleasant_surprise,"angry, disgust, happy",4,0.779,"fusion_concat, fusion_gated, speech"
+TESS Toronto emotional speech set data/OAF_happy/OAF_chain_happy.wav,happy,pleasant_surprise,3,0.681,"fusion_concat, fusion_gated, speech"

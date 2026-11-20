@@ -1,0 +1,35 @@
+
+=== accuracy table (test, mean +- std over seeds) ===
+          model test_accuracy_%    macro_F1_%  acc_seed0_%  acc_seed1_%  acc_seed2_%
+    Speech-only   99.76 +- 0.19 99.76 +- 0.19       100.00        99.52        99.76
+      Text-only   14.29 +- 0.00  4.70 +- 1.60        14.29        14.29        14.29
+Fusion (concat)   99.84 +- 0.11 99.84 +- 0.11        99.76       100.00        99.76
+ Fusion (gated)   99.84 +- 0.11 99.84 +- 0.11        99.76        99.76       100.00
+
+=== per-emotion recall % (pooled over seeds) ===
+                   Speech-only  Text-only  Fusion (concat)  Fusion (gated)
+angry                    100.0        0.0            100.0           100.0
+disgust                  100.0       11.1            100.0           100.0
+fear                     100.0       33.3            100.0           100.0
+happy                     99.4       34.4             99.4            99.4
+neutral                  100.0        0.0            100.0           100.0
+pleasant_surprise         98.9        0.0             99.4            99.4
+sad                      100.0       21.1            100.0           100.0
+
+=== speech-only vs fusion_concat: clip-by-clip ===
+seed 0: fusion fixed 0 speech errors, broke 1 correct clips, both wrong 0
+seed 1: fusion fixed 2 speech errors, broke 0 correct clips, both wrong 0
+seed 2: fusion fixed 1 speech errors, broke 1 correct clips, both wrong 0
+
+=== failure cases: 2 distinct clips ===
+                                                                       path              true          predicted_as  n_failures  max_confidence                              models
+TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_pad_ps.wav pleasant_surprise angry, disgust, happy           4           0.779 fusion_concat, fusion_gated, speech
+       TESS Toronto emotional speech set data/OAF_happy/OAF_chain_happy.wav             happy     pleasant_surprise           3           0.681 fusion_concat, fusion_gated, speech
+
+=== cluster separability (silhouette on the raw embeddings; higher = better separated) ===
+                                      block  silhouette_by_emotion  silhouette_by_speaker
+                Temporal block (speech CNN)                  0.359                  0.078
+Contextual block (speech BiGRU + attention)                  0.706                  0.020
+                      Fusion block (concat)                  0.790                  0.005
+
+saved: accuracy_table.csv, per_emotion_recall.csv, failure_cases.csv, failure_spectrograms.png, cluster_tsne.png, cluster_scores.csv

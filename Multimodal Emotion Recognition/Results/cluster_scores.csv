@@ -1,0 +1,4 @@
+block,silhouette_by_emotion,silhouette_by_speaker
+Temporal block (speech CNN),0.359,0.078
+Contextual block (speech BiGRU + attention),0.706,0.02
+Fusion block (concat),0.79,0.005
