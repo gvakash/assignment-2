@@ -1,0 +1,4 @@
+seed,path,speaker,word,true,pred,confidence
+1,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_pad_ps.wav,OAF,pad,pleasant_surprise,angry,0.457
+1,TESS Toronto emotional speech set data/OAF_happy/OAF_chain_happy.wav,OAF,chain,happy,pleasant_surprise,0.681
+2,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_pad_ps.wav,OAF,pad,pleasant_surprise,happy,0.422

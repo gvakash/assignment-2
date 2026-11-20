@@ -1,0 +1,14 @@
+seed 0: test acc 1.000  macro-F1 1.000  (best epoch 8, val acc 1.000)
+seed 1: test acc 0.995  macro-F1 0.995  (best epoch 4, val acc 1.000)
+seed 2: test acc 0.998  macro-F1 0.998  (best epoch 12, val acc 1.000)
+
+SPEECH-ONLY  test accuracy 0.998 +- 0.002   macro-F1 0.998 +- 0.002   (seeds [0, 1, 2])
+per-emotion recall (all seeds pooled):
+  angry              1.000
+  disgust            1.000
+  fear               1.000
+  happy              0.994
+  neutral            1.000
+  pleasant_surprise  0.989
+  sad                1.000
+saved Results/speech_confusion.png, speech_misclassified.csv, speech_results.json
