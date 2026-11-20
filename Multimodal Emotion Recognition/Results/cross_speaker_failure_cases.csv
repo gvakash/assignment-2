@@ -1,0 +1,6 @@
+train_speaker,true,predicted,n_errors_all_seeds,example_clip,example_confidence,example_seed
+OAF,happy,angry,599,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_happy/YAF_white_happy.wav,0.99,0
+OAF,pleasant_surprise,angry,581,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_pleasant_surprised/YAF_pike_ps.wav,0.988,0
+OAF,fear,angry,442,TESS Toronto emotional speech set data/TESS Toronto emotional speech set data/YAF_fear/YAF_pearl_fear.wav,0.98,0
+YAF,pleasant_surprise,disgust,289,TESS Toronto emotional speech set data/OAF_Pleasant_surprise/OAF_hall_ps.wav,0.963,2
+YAF,happy,pleasant_surprise,264,TESS Toronto emotional speech set data/OAF_happy/OAF_tire_happy.wav,0.934,0
