@@ -1,0 +1,31 @@
+speech train OAF -> test YAF  seed 0: acc 0.486  F1 0.445  (stopped ep 12, 176s)
+speech train OAF -> test YAF  seed 1: acc 0.456  F1 0.368  (stopped ep 14, 233s)
+speech train OAF -> test YAF  seed 2: acc 0.551  F1 0.508  (stopped ep 15, 223s)
+fusion train OAF -> test YAF  seed 0: acc 0.643  F1 0.612  (stopped ep 17, 330s)
+fusion train OAF -> test YAF  seed 1: acc 0.501  F1 0.481  (stopped ep 21, 329s)
+fusion train OAF -> test YAF  seed 2: acc 0.492  F1 0.449  (stopped ep 14, 243s)
+speech train YAF -> test OAF  seed 0: acc 0.636  F1 0.577  (stopped ep 11, 187s)
+speech train YAF -> test OAF  seed 1: acc 0.647  F1 0.595  (stopped ep 12, 198s)
+speech train YAF -> test OAF  seed 2: acc 0.581  F1 0.519  (stopped ep 14, 218s)
+fusion train YAF -> test OAF  seed 0: acc 0.497  F1 0.401  (stopped ep 10, 176s)
+fusion train YAF -> test OAF  seed 1: acc 0.436  F1 0.386  (stopped ep 10, 175s)
+fusion train YAF -> test OAF  seed 2: acc 0.373  F1 0.304  (stopped ep 10, 169s)
+
+=== cross-speaker results (test on the OTHER actress; mean +- std over seeds) ===
+ model train test         acc_%  macro_F1_%
+fusion   OAF  YAF 54.52 +- 8.46       51.41
+fusion   YAF  OAF 43.55 +- 6.21       36.36
+speech   OAF  YAF 49.79 +- 4.89       44.05
+speech   YAF  OAF 62.17 +- 3.53       56.37
+
+=== per-emotion recall % ===
+                   speech OAF->YAF  fusion OAF->YAF  speech YAF->OAF  fusion YAF->OAF
+angry                         99.7             87.7             51.3             33.3
+disgust                       32.2             43.7             81.5             54.2
+fear                          26.0             45.8             94.0             76.2
+happy                          0.0              5.5              0.0              0.0
+neutral                       95.5             76.7            100.0            100.0
+pleasant_surprise              3.0             26.5             28.3              2.5
+sad                           92.2             95.8             80.0             38.7
+
+saved Results/cross_speaker_{runs,table,per_emotion,misclassified}.csv and cross_speaker_confusion.png

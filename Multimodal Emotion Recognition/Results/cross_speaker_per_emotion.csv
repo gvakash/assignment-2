@@ -1,0 +1,8 @@
+,speech OAF->YAF,fusion OAF->YAF,speech YAF->OAF,fusion YAF->OAF
+angry,99.7,87.7,51.3,33.3
+disgust,32.2,43.7,81.5,54.2
+fear,26.0,45.8,94.0,76.2
+happy,0.0,5.5,0.0,0.0
+neutral,95.5,76.7,100.0,100.0
+pleasant_surprise,3.0,26.5,28.3,2.5
+sad,92.2,95.8,80.0,38.7

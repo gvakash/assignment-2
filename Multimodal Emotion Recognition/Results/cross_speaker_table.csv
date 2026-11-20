@@ -1,0 +1,5 @@
+model,train,test,acc_%,macro_F1_%
+fusion,OAF,YAF,54.52 +- 8.46,51.41
+fusion,YAF,OAF,43.55 +- 6.21,36.36
+speech,OAF,YAF,49.79 +- 4.89,44.05
+speech,YAF,OAF,62.17 +- 3.53,56.37
