@@ -1,0 +1,14 @@
+seed 0: test acc 0.998  macro-F1 0.998  (best epoch 5, val acc 1.000)
+seed 1: test acc 1.000  macro-F1 1.000  (best epoch 8, val acc 1.000)
+seed 2: test acc 0.998  macro-F1 0.998  (best epoch 12, val acc 1.000)
+
+FUSION (CONCAT)  test accuracy 0.998 +- 0.001   macro-F1 0.998 +- 0.001   (seeds [0, 1, 2])
+per-emotion recall (all seeds pooled):
+  angry              1.000
+  disgust            1.000
+  fear               1.000
+  happy              0.994
+  neutral            1.000
+  pleasant_surprise  0.994
+  sad                1.000
+saved Results/fusion_concat_confusion.png, fusion_concat_misclassified.csv, fusion_concat_results.json
