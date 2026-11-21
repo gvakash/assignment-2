@@ -25,7 +25,7 @@ python models/fusion_pipeline/test.py --mode gated
 python analysis.py --fusion concat --seed 0
 ```
 
-Each test script runs seeds 0–2 (change with `--seeds`) and writes a confusion matrix, `*_misclassified.csv`, `*_results.json` and the test embeddings to `Results/`. `analysis.py` reads the `.json` files and embeddings to build the accuracy table, per-emotion recall, failure cases and the t-SNE cluster plot.
+Each test script runs seeds 0, 1 and 2 by default (pass `--seeds` to choose others) and writes a confusion matrix, `*_misclassified.csv`, `*_results.json` and the test embeddings to `Results/`. `analysis.py` reads the `.json` files and embeddings to build the accuracy table, per-emotion recall, failure cases and the t-SNE cluster plot.
 
 ## Reproducing everything
 
@@ -77,6 +77,6 @@ A word-disjoint slice of the *training* actress (30 words) is used for early sto
 ## References
 
 - [TESS: Toronto Emotional Speech Set](https://tspace.library.utoronto.ca/handle/1807/24487)
-- SpecAugment: Park et al., 2019
+- [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/abs/1904.08779) (Park et al., 2019)
 - PyTorch, torchaudio and scikit-learn
 
