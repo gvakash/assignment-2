@@ -9,10 +9,11 @@ import matplotlib.pyplot as plt
 
 SR, N_FFT, WIN, HOP, N_MELS = 16000, 512, 400, 160, 64   # 25 ms window, 10 ms hop
 TOP_DB, PAD_S = 35, 0.05                                  # trim below peak-35 dB, keep 50 ms
-DATA, OUT = Path("data"), Path("features")
-OUT.mkdir(exist_ok=True); Path("Results").mkdir(exist_ok=True)
+ROOT = Path(__file__).resolve().parents[1]
+DATA, OUT, RES = ROOT / "data", ROOT / "features", ROOT / "Results"
+OUT.mkdir(exist_ok=True); RES.mkdir(exist_ok=True)
 
-df = pd.read_csv("metadata.csv")
+df = pd.read_csv(ROOT / "metadata.csv")
 mel_fn = torchaudio.transforms.MelSpectrogram(SR, n_fft=N_FFT, win_length=WIN, hop_length=HOP,
                                               n_mels=N_MELS, f_min=20, f_max=8000)
 
@@ -61,5 +62,5 @@ for ax, e in zip(axes, sorted(df.emotion.unique())):
     ax.imshow(mels[i].numpy(), origin="lower", aspect="auto")
     ax.set_title(f"{e} ('{word}', OAF)"); ax.set_xlabel("frame (10 ms)"); ax.set_ylabel("mel band")
 axes[-1].axis("off")
-plt.tight_layout(); plt.savefig("Results/example_logmels.png", dpi=120)
+plt.tight_layout(); plt.savefig(RES / "example_logmels.png", dpi=120)
 print("saved Results/example_logmels.png")

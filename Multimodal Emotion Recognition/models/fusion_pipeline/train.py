@@ -2,7 +2,7 @@
 import argparse, sys, time
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
-sys.path.insert(0, str(ROOT))
+sys.path.insert(0, str(ROOT / "helpers"))
 import pandas as pd, torch, torch.nn as nn
 from torch.utils.data import DataLoader
 from common import load_mels, load_metadata, mel_stats, metrics, seed_everything

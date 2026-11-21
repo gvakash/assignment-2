@@ -1,8 +1,8 @@
-"""Analysis: accuracy tables, per-emotion recall, speech-vs-fusion comparison, failure cases,
-and t-SNE cluster plots for the temporal, contextual and fusion blocks.
-Usage: python analysis.py --fusion concat --seed 0"""
-import argparse, json
+"""This script produces the analysis tables and figures for the paper. It requires that the models have already been trained and evaluated (see train.py)."""
+import argparse, json, sys
 from pathlib import Path
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "helpers"))
 import numpy as np, pandas as pd
 import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt
@@ -15,7 +15,7 @@ ap.add_argument("--seed", type=int, default=0, help="seed used for the cluster p
 ap.add_argument("--seeds", type=int, nargs="+", default=[0, 1, 2])
 ap.add_argument("--fusion", default="concat", choices=["concat", "gated"])
 args = ap.parse_args()
-R = Path(__file__).resolve().parent / "Results"
+R = ROOT / "Results"
 df = load_metadata()
 fus = f"fusion_{args.fusion}"
 

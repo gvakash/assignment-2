@@ -2,7 +2,7 @@
 import argparse, json, sys
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
-sys.path.insert(0, str(ROOT))
+sys.path.insert(0, str(ROOT / "helpers"))
 import numpy as np, pandas as pd, torch
 import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt

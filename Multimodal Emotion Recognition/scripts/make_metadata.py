@@ -4,7 +4,8 @@ from pathlib import Path
 import pandas as pd
 import soundfile as sf
 
-data = Path(sys.argv[1] if len(sys.argv) > 1 else "data")
+ROOT = Path(__file__).resolve().parents[1]
+data = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "data"
 EMO = {"ps": "pleasant_surprise", "pleasant": "pleasant_surprise",
        "angry": "angry", "disgust": "disgust", "fear": "fear",
        "happy": "happy", "neutral": "neutral", "sad": "sad"}
@@ -24,7 +25,7 @@ for p in sorted(data.rglob("*.wav")):
                      duration_s=round(info.duration, 3), sr=info.samplerate))
 
 df = pd.DataFrame(rows)
-df.to_csv("metadata.csv", index=False)
+df.to_csv(ROOT / "metadata.csv", index=False)
 print("clips:", len(df), "| unique words:", df.word.nunique())
 print("\nper emotion:\n", df.emotion.value_counts().to_string())
 print("\nper speaker:\n", df.speaker.value_counts().to_string())

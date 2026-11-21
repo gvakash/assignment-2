@@ -1,13 +1,14 @@
-"""Cross-speaker failure cases: the 5 most common error patterns of the speech model, each with its most
-confidently wrong example, drawn next to the TRAINING actress's recordings of the same word.
-Usage: python cross_failures.py"""
+"""This script produces the analysis tables and figures for the paper. It requires that the models have already been trained and evaluated (see train.py)."""
+import sys
 from pathlib import Path
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "helpers"))
 import pandas as pd
 import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from common import load_mels, load_metadata
 
-R = Path(__file__).resolve().parent / "Results"
+R = ROOT / "Results"
 d = pd.read_csv(R / "cross_speaker_misclassified.csv"); d = d[d.model == "speech"]
 top = (d.groupby(["train_speaker", "true", "pred"]).size().reset_index(name="n")
        .sort_values("n", ascending=False).head(5))

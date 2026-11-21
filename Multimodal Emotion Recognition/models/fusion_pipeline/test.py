@@ -2,7 +2,7 @@
 import argparse, sys
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
-sys.path.insert(0, str(ROOT))
+sys.path.insert(0, str(ROOT / "helpers"))
 import numpy as np, torch
 from torch.utils.data import DataLoader
 from sklearn.metrics import confusion_matrix

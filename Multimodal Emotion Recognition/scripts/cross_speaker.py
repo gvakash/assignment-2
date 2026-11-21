@@ -1,9 +1,8 @@
-"""Extra experiment: cross-speaker generalisation. Train on one actress, test on the other.
-Speech-only and fusion (concat). A word-disjoint slice of the TRAINING actress is used for early stopping,
-so the test actress is never looked at while training.
-Usage: python cross_speaker.py --seeds 0 1 2"""
-import argparse, copy, time
+"""This script trains and evaluates the speech and fusion models in a cross-speaker setting, i.e. training on one actress and testing on the other. It produces a CSV file with the results, a CSV file with the misclassified examples, a CSV file with per-emotion recall, and a PNG file with confusion matrices."""
+import argparse, copy, sys, time
 from pathlib import Path
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "helpers"))
 import numpy as np, pandas as pd, torch, torch.nn as nn
 import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt
@@ -21,7 +20,7 @@ ap.add_argument("--bs", type=int, default=32)
 ap.add_argument("--lr", type=float, default=2e-3)
 args = ap.parse_args()
 
-R = Path(__file__).resolve().parent / "Results"; R.mkdir(exist_ok=True)
+R = ROOT / "Results"; R.mkdir(exist_ok=True)
 df, mels = load_metadata(), None
 mels = load_mels(df)
 

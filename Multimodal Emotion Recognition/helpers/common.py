@@ -5,7 +5,7 @@ import numpy as np, pandas as pd, torch, torch.nn as nn, torch.nn.functional as 
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 from sklearn.metrics import f1_score
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]      # project folder (holds metadata.csv, features/, Results/)
 LABELS = ["angry", "disgust", "fear", "happy", "neutral", "pleasant_surprise", "sad"]
 L2I = {l: i for i, l in enumerate(LABELS)}
 
